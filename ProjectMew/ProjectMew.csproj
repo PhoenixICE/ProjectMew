@@ -93,7 +93,7 @@
     <Compile Include="Logger\Logging.cs" />
     <Compile Include="PaginationTools.cs" />
     <Compile Include="PluginContainer.cs" />
-    <Compile Include="ProjectSnorlax.cs" />
+    <Compile Include="ProjectMew.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PSPlayer.cs" />
     <Compile Include="RetryHandler.cs" />
